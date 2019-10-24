@@ -12,6 +12,5 @@ before_install:
 
 script:
 
-- pylint_runner
 
-- pytest --cov=com.faculdadeimpacta com/faculdadeimpacta/calculadora/test/test_app_web_start.py
+- pytest --cov=com.faculdadeimpacta com/faculdadeimpacta/calculadora/test
