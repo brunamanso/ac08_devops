@@ -14,4 +14,4 @@ script:
 
 - pylint_runner
 
-- pytest --cov=com.faculdadeimpacta com/faculdadeimpacta/calculadora/test/
+- pytest --cov=com.faculdadeimpacta com/faculdadeimpacta/calculadora/test/test_app_web_start.py
